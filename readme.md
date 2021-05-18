@@ -1,0 +1,1 @@
+I implemented Grover's search algorithm for a six-qubit search space in OpenQASM 2.0 and 3.0 as my final project for UP135 at Stanford Online High School.
