@@ -4,7 +4,7 @@ include "stdgates.inc";
 // define computational registers
 
 qubit q[6];
-output bit c[6];
+bit c[6];
 
 // let the value we're searching for be the six-bit binary number 101010
 // we want the oracle to add a negative phase to a state |x> if x = 101010 and do nothing otherwise
